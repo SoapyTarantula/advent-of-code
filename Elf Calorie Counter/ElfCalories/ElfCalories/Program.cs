@@ -1,6 +1,6 @@
 ﻿internal class Program
 {
-    public static void Main()
+    private static void Main()
     {
         List<int> _topThree = new List<int>();
         List<int> _numBlock;
